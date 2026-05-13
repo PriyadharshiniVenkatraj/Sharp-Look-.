@@ -16,5 +16,4 @@ This is a professional frontend website for a salon that is built using html, cs
 - style.css
 - script.js
 
-## Author
-- Priyadharshini V
+
